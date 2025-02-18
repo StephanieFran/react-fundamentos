@@ -2,20 +2,22 @@
 
 Explorando os principais fundamentos do React. Desenvolvido como projeto de estudo na Formação Fullstack, da plataforma JStack.
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 ## :hammer_and_wrench: Tecnologias
 Ferramentas usadas na construção do projeto:
 - [Node.js (v22.12.0)](<https://nodejs.org/en/>)
-- [React (v18.3.1)]()
-- [ReactDOM (v18.3.1)]()
-- [PropTypes (v15.8.1)]()
+- [React (v18.3.1)](https://18.react.dev/)
+- [ReactDOM (v18.3.1)]
+- [PropTypes (v15.8.1)](https://www.npmjs.com/package/prop-types)
 
 Ferramentas usadas no desenvolvimento do projeto:
 - [VSCode (v1.97.0)](https://code.visualstudio.com/)
 - [Yarn (v1.22.22)](https://classic.yarnpkg.com/lang/en/)
-- [Babel (v7.26.8)]()
-- [Webpack (v5.97.1)]()
+- [Babel (v7.26.8)](https://babeljs.io/)
+- [Webpack (v5.97.1)](https://webpack.js.org/)
+- [SASS (v1.85.0)](https://sass-lang.com/)
+- [Styled-Components (v6.1.15)](https://styled-components.com/)
 
 ## :computer: Conceitos Abordados
 
@@ -35,7 +37,13 @@ Ferramentas usadas no desenvolvimento do projeto:
 
 #### Estilização:
 
-- 
+- Inline styles
+- Arquivos CSS
+- CSS modules
+- SASS e SASS modules
+- Classes dinâmicas
+- Styled-Components
+- Props em Styled-Components
 
 ## :open_file_folder: Acesso ao Projeto
 ```

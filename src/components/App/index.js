@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import Post from './Post';
-import Header from './Header';
-import { ThemeProvider } from './ThemeContext';
+import Post from '../Post';
+import Header from '../Header';
+import { ThemeProvider } from '../../context/ThemeContext';
 
-import styles from './App.scss';
+import { Title } from './styles';
 
 function App() {
     const [posts, setPosts] = useState([
@@ -37,7 +37,7 @@ function App() {
     return (
         <ThemeProvider>
             <Header title = "Blog">
-                <h2 className={styles.title}>Posts da Semana</h2>
+                <Title as="h2">Posts da Semana</Title>
                 <button onClick={handleRefresh}>Atualizar</button>
             </Header>
 

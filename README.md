@@ -54,7 +54,7 @@ $ git clone [url_projeto]
 ## :gear: Executar
 ```
 # Abrir projeto e executar aplicação no terminal do VSCode
-$ yarn init
+$ yarn install
 $ yarn dev
 ```
 No navegador, abrir a URL:

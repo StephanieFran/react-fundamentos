@@ -6,7 +6,6 @@ Explorando os principais fundamentos do React. Desenvolvido como projeto de estu
 
 ## :hammer_and_wrench: Tecnologias
 Ferramentas usadas na construção do projeto:
-- [Node.js (v22.12.0)](<https://nodejs.org/en/>)
 - [React (v18.3.1)](https://18.react.dev/)
 - ReactDOM (v18.3.1)
 - [PropTypes (v15.8.1)](https://www.npmjs.com/package/prop-types)

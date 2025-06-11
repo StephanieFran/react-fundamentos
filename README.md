@@ -9,14 +9,14 @@ Ferramentas usadas na construção do projeto:
 - [React (v18.3.1)](https://18.react.dev/)
 - ReactDOM (v18.3.1)
 - [PropTypes (v15.8.1)](https://www.npmjs.com/package/prop-types)
-- [Styled-Components (v6.1.15)](https://styled-components.com/)
+- [Styled-Components (v6.1.18)](https://styled-components.com/)
 
 Ferramentas usadas no desenvolvimento do projeto:
 - [VSCode (v1.97.0)](https://code.visualstudio.com/)
 - [Yarn (v1.22.22)](https://classic.yarnpkg.com/lang/en/)
-- [Babel (v7.26.8)](https://babeljs.io/)
-- [Webpack (v5.97.1)](https://webpack.js.org/)
-- [SASS (v1.85.0)](https://sass-lang.com/)
+- [Babel (v7.27.4)](https://babeljs.io/)
+- [Webpack (v5.99.9)](https://webpack.js.org/)
+- [SASS (v1.89.2)](https://sass-lang.com/)
 
 ## :computer: Conceitos Abordados
 
